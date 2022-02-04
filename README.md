@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samuele</h1>
 <h3 align="center">I'm a Junior Front-end Developer</h3>
 
+- 🌱 Let's learn and grow
+
 - 📫 How to reach me **minissalesamuele@gmail.com**
 
 - ⚡ Fun fact **I love movies 🎞️ and videogames 🎮**
